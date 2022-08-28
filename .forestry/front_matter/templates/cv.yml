@@ -1,9 +1,0 @@
----
-label: cv
-hide_body: false
-fields:
-- name: cv
-  type: text
-  config:
-    required: false
-  label: cv
