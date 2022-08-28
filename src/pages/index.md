@@ -7,6 +7,8 @@ adresse: balbala-barwaquo
 email: daganmoussa2018@gmail.com
 mobile: "+253 77484070"
 skills:
+- nom: devellopement de web
+  pourcentage: 90
 - nom: Administration des données
   pourcentage: 70
 - nom: Adobe Photoshop
