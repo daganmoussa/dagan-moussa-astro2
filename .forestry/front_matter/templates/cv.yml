@@ -1,4 +1,9 @@
 ---
 label: cv
 hide_body: false
-fields: []
+fields:
+- name: cv
+  type: text
+  config:
+    required: false
+  label: cv
