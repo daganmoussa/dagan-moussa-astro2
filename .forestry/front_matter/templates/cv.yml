@@ -23,3 +23,26 @@ fields:
 - type: text
   name: mobile
   label: mobile
+- name: skills
+  type: field_group_list
+  fields:
+  - name: nom
+    type: text
+    config:
+      required: false
+    label: nom
+  - name: pourcentage
+    type: number
+    description: ''
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+    label: pourcentage
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: skills
