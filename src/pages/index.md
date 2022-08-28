@@ -9,7 +9,8 @@ mobile: "+253 77484070"
 skills:
 - nom: Adobe Photoshop
   pourcentage: 90
-- pourcentage: 0
+- pourcentage: 50
+  nom: Illustrator
 
 ---
 # hello!
